@@ -17,7 +17,6 @@ Ce dépôt contient mes write ups du 404CTF de 2024.
     - [Algorithmique quantique](#algorithmique-quantique)
     - [Intelligence artificielle](#intelligence-artificielle)
 
-
 ## Score Personnel
 
 - Place finale : 135
