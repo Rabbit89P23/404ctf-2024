@@ -38,8 +38,7 @@ On a les données suivantes :
 On a :
 
 $$
-N = P.Q\\
-n = N(r)
+N = P.Q, \space n = N(r)
 $$
 
 On peut utiliser `sagemath` pour factoriser $N$. On trouve $P$ et $Q$ deux polynômes tel que $N=P.Q$.
@@ -67,15 +66,13 @@ On a donc dorénavant $r$ tel que $n=N(r)=P(r).Q(r)$
 On peut donc calculer :
 
 $$
-p = P(r)\\
-q = Q(r)
+p = P(r), \space q = Q(r)
 $$
 
 On peut ensuite calculer l'exposant privé $d$ en utilisant l'exposant public dans le chiffrement RSA ($65537$). En notant $\phi$ l'indicatrice d'Euler, comme $p$ et $q$ sont premiers (par construction), on a :
 
 $$
-\phi (n) = (p-1)(q-1)\\
-d = 65537^{-1} \space mod \space \phi(n)
+\phi (n) = (p-1)(q-1),\space d = 65537^{-1} \space mod \space \phi(n)
 $$
 
 Il nous suffit ensuite de déchiffrer le flag :
