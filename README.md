@@ -44,7 +44,7 @@ Les codes sources des challenges sont disponibles [ici](https://github.com/Hacka
 | Bébé nageur | Introduction | 100 | :white_check_mark: |
 | Le petit bain | Facile | 200 | :white_check_mark: |
 | Poor Random Number Generator [1/2] | Facile | 271 | :white_check_mark: |
-| Plongeon Rapide Super Artistique | Moyen | 698 | :white_check_mark: |
+| [Plongeon Rapide Super Artistique](./Cryptanalyse/Plongeon%20Rapide%20Super%20Artistique/) | Moyen | 698 | :white_check_mark: |
 | J'éponge donc j'essuie | Moyen | 891 | :white_check_mark: |
 | Poor Random Number Generator [2/2] | Moyen | 956 | :x: |
 | Zack Adeaux | Moyen | 967 | :x: |
