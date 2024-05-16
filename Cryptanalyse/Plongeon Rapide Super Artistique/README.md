@@ -38,7 +38,7 @@ On a les données suivantes :
 On a :
 
 $$
-N = P.Q\\
+N = P.Q\newline
 n = N(r)
 $$
 
@@ -67,14 +67,14 @@ On a donc dorénavant $r$ tel que $n=N(r)=P(r).Q(r)$
 On peut donc calculer :
 
 $$
-p = P(r)\\
+p = P(r)\newline
 q = Q(r)
 $$
 
 On peut ensuite calculer l'exposant privé $d$ en utilisant l'exposant public dans le chiffrement RSA ($65537$). En notant $\phi$ l'indicatrice d'Euler, comme $p$ et $q$ sont premiers (par construction), on a :
 
 $$
-\phi (n) = (p-1)(q-1)\\
+\phi (n) = (p-1)(q-1)\newline
 d = 65537^{-1} \space mod \space \phi(n)
 $$
 
