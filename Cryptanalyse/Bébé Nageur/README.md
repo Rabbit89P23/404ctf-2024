@@ -21,7 +21,7 @@ On connait :
 
 On a :
 - $n = 67$
-- $a \in \llbracket 2, 66 \rrbracket$ et $b \in \llbracket 1, 66 \rrbracket$ deux entiers aléatoires
+- $a \in [| 2, 66 |]$ et $b \in [| 1, 66 |]$ deux entiers aléatoires
 
 Le flag est chiffré caractère par caractère, de la manière suivante (pour chaque caractère) :
 - le caractère est identifié par son emplacement dans l'ensemble de caractères utilisé
