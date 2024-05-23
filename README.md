@@ -19,7 +19,7 @@ Ce dépôt contient mes write ups du 404CTF de 2024.
 
 ## Score Personnel
 
-- Place finale : 135
+- Place finale : 131
 - Meilleure place : 91
 - Points : 6353
 
